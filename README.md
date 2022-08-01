@@ -1,27 +1,49 @@
 <h1>FUTURE READY TALENT PROJECT</h1>
-This is my future ready talent project
-<h1>GO GREEN</H1>
-This is a static website developed using HTML,CSS languages and W3 framework.
-The primary motto of "GO GREEN" organization is to provide efficient and potent services in all arenas of plants so as to ensure that the green cover is safe on the 
-planet EARTH for the current and future generations as well.
+This is   my future ready talent project
+<h1>HEALTH CARE/H1>
+This is a static website developed using the technologies like HTML,CSS languages and W3 framework.
+The primary goal of Health care is the improvement of health via the prevention, diagnosis, treatment, amelioration, or cure of disease, illness, injury, and other physical and mental impairments in people through proper guidance.
+  
+  **Project Link** -
+  
+  ## Features and Functionalities 
 
-![im_1](https://user-images.githubusercontent.com/84327477/180648346-9fc36132-7020-4c46-a4fe-3fa06518aa8b.png)
+- Interactive and responsive UI.
+- Has many graphical and visual innovative effects.
+- Have an aesthetically pleasing visual design and architecture.
+- Has collection of many web pages including Home, Heatlth ,Medicine , Contact Us ,Client,HealthNews related information etc.
+- User can know about health information through this website.
+- Included the Book Appointment feature.
+  The description of the main aim can be explained better using the following content in about.
+  
+  - ## Screenshots
+ 
+  
+  📸![Screenshot 1](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/1.png)
+  
+  This will give the suggestions for health care on various topics
 
-The description of the main aim is better potrayed using the following content in about.
-
-![im_2](https://user-images.githubusercontent.com/84327477/180648395-f54bdc8b-c24f-4314-954d-91be95f6b787.png)
-
-The various facilities and services offered include those of GARDEN CARE,PLANT RENOVATION and ALWAYS FRESH meaning that the healthy growth and survival of the plants
-is as well taken care of by "GO GREEN".
-
-![im_3](https://user-images.githubusercontent.com/84327477/180648551-942c4e1b-85e0-43de-b951-6378d7e49624.png)
-
-Any comments and messages can be sent using the CONTACT US section.This shows an interactive nature of the organization.
-
-![im_4](https://user-images.githubusercontent.com/84327477/180648619-46c75143-f195-49f8-ad3a-a53c718f74b3.png)
-
-Other details regarding the address,contact number and mail have been included as follows.
-
-![im_5](https://user-images.githubusercontent.com/84327477/180648690-167caeb2-1d84-400a-b316-961ff1a3cc86.png)
-
-The link to the website is https://proud-water-03f563f10.1.azurestaticapps.net
+  📸![Screenshot 2](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/2.png)
+  
+  This consists Knowledge of Center which contains patient health status
+  
+  📸![Screenshot 3](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/3.png)
+  
+  This represents 24hours HOme care which include 24*7 call support ,Balanced Care,Daily Care Experts
+  
+  📸![Screenshot 4](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/4.png)
+  
+  This is all about Client Testimonials about their distractions.
+  
+  📸![Screenshot 5](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/5.png)
+  
+  This will provide the feature to Contact Us through Book Appointment.
+  
+  📸![Screenshot 6](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/6.png)
+  
+  
+  These are the  details regarding the address,contact number and mail have been included as follows.
+  
+  
+  📸![Screenshot 7](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/7.png)
+ 
