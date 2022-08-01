@@ -19,31 +19,30 @@ The primary goal of Health care is the improvement of health via the prevention,
   - ## Screenshots
  
   
-  📸![Screenshot 1](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/1.png)
+  📸![Screenshot 1](https://github.com/tejakodi200/frt2/blob/80dc8923b85d0c92a1cbbc78a9f4c541209b55e4/screenshots/1.png)
   
   This will give the suggestions for health care on various topics
 
-  📸![Screenshot 2](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/2.png)
+  📸![Screenshot 2](https://github.com/tejakodi200/frt2/blob/80dc8923b85d0c92a1cbbc78a9f4c541209b55e4/screenshots/2.png)
   
   This consists Knowledge of Center which contains patient health status
   
-  📸![Screenshot 3](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/3.png)
+  📸![Screenshot 3](https://github.com/tejakodi200/frt2/blob/80dc8923b85d0c92a1cbbc78a9f4c541209b55e4/screenshots/3.png)
   
   This represents 24hours HOme care which include 24*7 call support ,Balanced Care,Daily Care Experts
   
-  📸![Screenshot 4](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/4.png)
+  📸![Screenshot 4](https://github.com/tejakodi200/frt2/blob/80dc8923b85d0c92a1cbbc78a9f4c541209b55e4/screenshots/4.png)
   
   This is all about Client Testimonials about their distractions.
   
-  📸![Screenshot 5](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/5.png)
+  📸![Screenshot 5](https://github.com/tejakodi200/frt2/blob/80dc8923b85d0c92a1cbbc78a9f4c541209b55e4/screenshots/5.png)
   
   This will provide the feature to Contact Us through Book Appointment.
   
-  📸![Screenshot 6](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/6.png)
+  📸![Screenshot 6](https://github.com/tejakodi200/frt2/blob/80dc8923b85d0c92a1cbbc78a9f4c541209b55e4/screenshots/6.png)
   
   
   These are the  details regarding the address,contact number and mail have been included as follows.
   
   
-  📸![Screenshot 7](https://github.com/tejakodi200/scshots-frt/blob/4e945bfed45a3f58135d3d3f271bc1ebd60c4038/7.png)
- 
+  📸![Screenshot 7](https://github.com/tejakodi200/frt2/blob/80dc8923b85d0c92a1cbbc78a9f4c541209b55e4/screenshots/7.png)
