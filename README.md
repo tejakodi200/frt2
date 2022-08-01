@@ -1,6 +1,6 @@
 <h1>FUTURE READY TALENT PROJECT</h1>
 This is   my future ready talent project
-<h1>HEALTH CARE/H1>
+<h1>HEALTH CARE/h1>
 This is a static website developed using the technologies like HTML,CSS languages and W3 framework.
 The primary goal of Health care is the improvement of health via the prevention, diagnosis, treatment, amelioration, or cure of disease, illness, injury, and other physical and mental impairments in people through proper guidance.
   
